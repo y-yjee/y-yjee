@@ -1,13 +1,14 @@
 
-<h1>Hi 👋, I'm MC</h1>
+<h1>안녕하세요 👋 윤지입니다꒰⍤꒱!</h1>
 <br>
 
-### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 MC입니다. <br>
-🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
-🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
-🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
-🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
+### 🙋 I'm Yoonjee, Fullstack developer. 
+💛 사용자에게 가치 있는 서비스를 제공하고, 기술을 통해 더 나은 세상을 만들고 싶은 꿈을 가진 개발자 지망생 <strong>윤지</strong>입니다. <br>
+💛 프론트엔드부터 백엔드까지 폭넓은 영역을 다루는 풀스택 개발자가 되고 싶습니다.  <br>
+💛 아이디어를 직접 구현하고 문제를 스스로 해결할 수 있는 역량을 갖추는 것이 제 목표입니다. <br>
+💛 새로운 기술을 배우는 것을 즐기며, 학습한 내용을 직접 적용해 보는 것을 통해 성장하고 있습니다. <br>
+💛 협업의 중요성을 느껴 GitHub와 Notion 등의 툴도 적극적으로 활용하고 있습니다. <br>
+💛 풀스택 개발자가 되기 위한 길은 결코 쉽지 않지만, 배움을 즐기며 한 걸음씩 꾸준히 나아가겠습니다!
 
 <br>
 
@@ -35,7 +36,7 @@
 <br>
 
 ### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+<p>기업의 업무 자동화(RPA, 챗GPT) 플랫폼(JAVA, Spring) 개발</p>
 
 <br>
 
@@ -50,6 +51,7 @@
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Naver Blog" width="40px" src="https://img.icons8.com/?size=100&id=JrSdCS4yeykt&format=png&color=000000" />](https://blog.naver.com/y_yjee)
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [website]: http://febseo.dothome.co.kr
