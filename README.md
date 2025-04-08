@@ -2,7 +2,7 @@
 <h1>안녕하세요 👋 윤지입니다꒰⍤꒱!</h1>
 <br>
 
-### 🙋 I'm Yoonjee, Fullstack developer. 
+### <img align="center" alt="yoonjee_emoji" width="300px" src="https://github.com/y-yjee/y-yjee/blob/72a27f001343e085ce27d8c9c149b780b01544ac/emoji.png"/> <p>I'm Yoonjee, Fullstack developer.</p> 
 💛 사용자에게 가치 있는 서비스를 제공하고, 기술을 통해 더 나은 세상을 만들고 싶은 꿈을 가진 개발자 지망생 <strong>윤지</strong>입니다. <br>
 💛 프론트엔드부터 백엔드까지 폭넓은 영역을 다루는 풀스택 개발자가 되고 싶습니다.  <br>
 💛 아이디어를 직접 구현하고 문제를 스스로 해결할 수 있는 역량을 갖추는 것이 제 목표입니다. <br>
