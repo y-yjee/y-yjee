@@ -40,8 +40,11 @@
 
 <br>
 
-### 🎓 Education
-<p>서울대학교 철학과 심화전공  |  2020.03 ~ </p>
+### 📜 Certifications
+<p> 🖼️ GTQ 1,2급      |  2011.07 ~ </p>
+<p> 🚗 자동차운전면허  |  2013.01 ~ </p>
+<p> 🏠 공인중개사      |  2018.12 ~ </p>
+<p> 🧾 전산회계 2급    |  2024.08 ~ </p>
 
 
     
@@ -51,21 +54,14 @@
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="Naver Blog" width="40px" src="https://img.icons8.com/?size=100&id=JrSdCS4yeykt&format=png&color=000000" />](https://blog.naver.com/y_yjee)
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="Naver Blog" width="48px" src="https://img.icons8.com/?size=100&id=JrSdCS4yeykt&format=png&color=000000" />](https://blog.naver.com/y_yjee)
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/?size=100&id=El7pTE24c3iC&format=png&color=000000" />][instagram]
 
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
+[website]: http://yyjee.dothome.co.kr
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/y_yjee/
 
 <br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
-
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
 
 
