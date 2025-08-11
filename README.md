@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi%20I%27m%20YOUR_NAME%20👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi%20I%27m%20YoonJee%20👋&fontSize=40)
 <h1>안녕하세요 👋 윤지입니다꒰⍤꒱!</h1>
 <br>
 
