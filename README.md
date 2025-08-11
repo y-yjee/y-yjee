@@ -63,5 +63,25 @@
 
 <br><br><br><br><br><br>
 
+<h1 align="center">🚀 Welcome to My GitHub</h1>
 
+## 👩‍💻 About Me
+- 🔭 I’m currently working on **Spring MVC Board Project**
+- 🌱 Learning **Spring Security, Ajax, and REST APIs**
+- ⚡ Fun fact: I love coffee ☕ and clean code ✨
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [📜 Spring MVC Board](https://github.com/YOUR_GITHUB_ID/spring-board) | 게시판 CRUD + 검색 + 페이징 구현 | Spring MVC, MyBatis, OracleDB |
+| [🌍 Ttareungyi Clone](https://github.com/YOUR_GITHUB_ID/ttareungyi-clone) | 따릉이 웹사이트 클론 | HTML, CSS, JS |
+| [📊 Insurance Admin Dashboard](https://github.com/YOUR_GITHUB_ID/insurance-dashboard) | 관리자 대시보드 구현 | Spring Boot, MyBatis, Chart.js |
+
+---
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=dracula)
 
