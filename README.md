@@ -2,8 +2,6 @@
 <h1>안녕하세요 👋 윤지입니다꒰⍤꒱!</h1>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&label=Profile%20views&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_ID?label=Followers&style=social" />
 
 ### <img align="center" alt="yoonjee_emoji" width="300px" src="https://github.com/y-yjee/y-yjee/blob/72a27f001343e085ce27d8c9c149b780b01544ac/emoji.png"/> <p>I'm Yoonjee, Fullstack developer.</p> 
 💛 사용자에게 가치 있는 서비스를 제공하고, 기술을 통해 더 나은 세상을 만들고 싶은 꿈을 가진 개발자 지망생 <strong>윤지</strong>입니다. <br>
