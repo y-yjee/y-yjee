@@ -1,88 +1,118 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi%20I%27m%20YoonJee%20👋&fontSize=40)
-<h1>안녕하세요 👋 윤지입니다꒰⍤꒱!</h1>
-<br>
-
-
-### <img align="center" alt="yoonjee_emoji" width="300px" src="https://github.com/y-yjee/y-yjee/blob/72a27f001343e085ce27d8c9c149b780b01544ac/emoji.png"/> <p>I'm Yoonjee, Fullstack developer.</p> 
-💛 사용자에게 가치 있는 서비스를 제공하고, 기술을 통해 더 나은 세상을 만들고 싶은 꿈을 가진 개발자 지망생 <strong>윤지</strong>입니다. <br>
-💛 프론트엔드부터 백엔드까지 폭넓은 영역을 다루는 풀스택 개발자가 되고 싶습니다.  <br>
-💛 아이디어를 직접 구현하고 문제를 스스로 해결할 수 있는 역량을 갖추는 것이 제 목표입니다. <br>
-💛 새로운 기술을 배우는 것을 즐기며, 학습한 내용을 직접 적용해 보는 것을 통해 성장하고 있습니다. <br>
-💛 협업의 중요성을 느껴 GitHub와 Notion 등의 툴도 적극적으로 활용하고 있습니다. <br>
-💛 풀스택 개발자가 되기 위한 길은 결코 쉽지 않지만, 배움을 즐기며 한 걸음씩 꾸준히 나아가겠습니다!
-
-<br>
-
-### 🛠 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=4479A1"/> 
-  <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat-square&logo=Java&logoColor=4479A1"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
+<!-- 상단 배너 -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Cho%20Yoonjee&fontSize=48&fontColor=ffffff&animation=fadeIn"
+  />
 </p>
 
-<br>
+<h3 align="center">UI와 인터랙션에 진심인 프론트엔드 개발자</h3>
 
-### ⛺ Experiences
-<p>기업의 업무 자동화(RPA, 챗GPT) 플랫폼(JAVA, Spring) 개발</p>
+<p align="center">
+  멈추지 않는 호기심으로 배우고,  
+  함께 가고 싶은 동료로 성장하며,  
+  꾸준함으로 실력을 쌓아가는 개발자입니다.
+</p>
 
-<br>
+<br/>
 
-### 📜 Certifications
-<p> 🖼️ GTQ 1,2급      |  2011.07 ~ </p>
-<p> 🚗 자동차운전면허  |  2013.01 ~ </p>
-<p> 🏠 공인중개사      |  2018.12 ~ </p>
-<p> 🧾 전산회계 2급    |  2024.08 ~ </p>
+<!-- 링크 버튼 -->
+<p align="center">
+  <a href="test.com">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="test.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="test.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="test.com">
+    <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/>
+  </a>
+  <a href="test.com">
+    <img src="https://img.shields.io/badge/Resume PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-    
-<br>
+## 🚀 About Me
 
-### ♾️ Connect with me
+### #끊임없는_배움
+새로운 기술과 트렌드를 배우는 것을 즐기며,  
+공부한 내용을 **프로젝트에 바로 적용하며 경험으로 체화**하는 과정을 중요하게 생각합니다.  
+변화하는 개발 환경에서도 유연하게 성장하는 개발자를 목표로 합니다.
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="Naver Blog" width="48px" src="https://img.icons8.com/?size=100&id=JrSdCS4yeykt&format=png&color=000000" />](https://blog.naver.com/y_yjee)
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/?size=100&id=El7pTE24c3iC&format=png&color=000000" />][instagram]
+### #꼼꼼한_성격
+작은 디테일까지 놓치지 않는 성격으로,  
+코드 안정성과 사용자 경험을 함께 고려합니다.  
+문제를 끝까지 파고들어 해결하는 과정에서 큰 보람을 느낍니다.
 
-[website]: http://yyjee.dothome.co.kr
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/y_yjee/
+### #긍정_마인드
+어려운 상황에서도 긍정적으로 접근하며,  
+실패와 시행착오를 성장의 발판으로 삼습니다.  
+협업 과정에서도 원활한 소통으로 팀에 기여하고자 합니다.
 
-<br><br><br><br><br><br>
+### #도전_정신
+낯선 기술과 새로운 프로젝트에도 주저하지 않고 도전합니다.  
+새로운 시도를 통해 얻은 경험과 인사이트를  
+더 나은 결과물로 연결하는 것을 좋아합니다.
 
-<h1 align="center">🚀 Welcome to My GitHub</h1>
+---
 
-## 👩‍💻 About Me
-- 🔭 I’m currently working on **Spring MVC Board Project**
-- 🌱 Learning **Spring Security, Ajax, and REST APIs**
-- ⚡ Fun fact: I love coffee ☕ and clean code ✨
+## 🛠 Tech Stack
+
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Back-end
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### DB · Server
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-5E5E5E?style=flat-square)
 
 ---
 
 ## 📌 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [📜 Spring MVC Board](https://github.com/YOUR_GITHUB_ID/spring-board) | 게시판 CRUD + 검색 + 페이징 구현 | Spring MVC, MyBatis, OracleDB |
-| [🌍 Ttareungyi Clone](https://github.com/YOUR_GITHUB_ID/ttareungyi-clone) | 따릉이 웹사이트 클론 | HTML, CSS, JS |
-| [📊 Insurance Admin Dashboard](https://github.com/YOUR_GITHUB_ID/insurance-dashboard) | 관리자 대시보드 구현 | Spring Boot, MyBatis, Chart.js |
+
+### 🚲 서울시 공공자전거 ‘따릉이’ 클론 및 UX 리디자인
+기존 따릉이 웹사이트를 분석하여  
+메인 화면 구조를 개선하고 서비스 페이지를 구현한 프로젝트  
+👉 [GitHub Repo](test.com) | [Live Demo](test.com)
 
 ---
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=dracula)
+### 🏢 KD손해보험 관리자 페이지 (가상 보험사 백오피스 시스템)
+보험사 관리자 페이지의 실무 구조를 이해하고  
+Spring 기반 데이터 관리 시스템을 구현한 프로젝트  
+👉 [GitHub Repo](test.com) | [Live Demo](test.com)
 
+---
+
+### 🎬 리액트 기반 SPA 웹 애플리케이션
+새로고침 없이 페이지가 전환되는  
+영상·슬라이드 중심의 웹 애플리케이션을 구현한 프로젝트  
+👉 [GitHub Repo](test.com) | [Live Demo](test.com)
+
+---
+
+## 🎨 Work Style & Interests
+
+- UI 디테일에 집착하는 편  
+- 사용자 흐름을 먼저 고민하는 개발  
+- 정적인 화면보다 **반응하는 인터페이스**를 선호  
