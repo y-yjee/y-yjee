@@ -1,14 +1,14 @@
-<!-- 상단 배너 -->
+<!-- 프로필 이미지 -->
 <p align="center">
-  <img src="./assets/typing.gif" width="100%" alt="Typing intro" />
+  <img src="./assets/profile.png" width="300px" alt="Profile" />
 </p>
 
-<h3 align="center">UI와 인터랙션에 진심인 프론트엔드 개발자</h3>
+<h3 align="center">디테일과 화면의 흐름에 진심인 프론트엔드 개발자</h3>
 
 <p align="center">
   멈추지 않는 호기심으로 배우고,  
   함께 가고 싶은 동료로 성장하며,  
-  꾸준함으로 실력을 쌓아가는 개발자입니다.
+  꾸준함으로 실력을 쌓아갑니다.
 </p>
 
 <br/>
@@ -16,19 +16,19 @@
 <!-- 링크 버튼 -->
 <p align="center">
   <a href="test.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
   <a href="test.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=BB001B"/>
+  </a>&nbsp;
   <a href="test.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=4C8BF5"/>
+  </a>&nbsp;
   <a href="test.com">
-    <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"/>
-  </a>
+    <img src="https://img.shields.io/badge/Notion-1A1A1A?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>&nbsp;
   <a href="test.com">
-    <img src="https://img.shields.io/badge/Resume PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-1A1A1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -85,6 +85,10 @@
 ![RPA](https://img.shields.io/badge/RPA-5E5E5E?style=flat-square)
 
 ---
+<!-- 타이핑 GIF 배너 -->
+<p align="center">
+  <img src="./assets/typing.gif" width="100%" alt="Typing intro" />
+</p>
 
 ## 📌 Featured Projects
 
