@@ -1,8 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Cho%20Yoonjee&fontSize=48&fontColor=ffffff&animation=fadeIn"
-  />
+  <img src="./assets/typing.gif" width="700" alt="Typing intro" />
 </p>
 
 <h3 align="center">UI와 인터랙션에 진심인 프론트엔드 개발자</h3>
