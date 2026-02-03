@@ -15,26 +15,65 @@
 
 <!-- 링크 버튼 -->
 <p align="center">
-  <a href="test.com">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="test.com">
-    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=BB001B"/>
-  </a>&nbsp;
-  <a href="test.com">
-    <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=4C8BF5"/>
-  </a>&nbsp;
-  <a href="test.com">
-    <img src="https://img.shields.io/badge/Notion-1A1A1A?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>&nbsp;
-  <a href="test.com">
-    <img src="https://img.shields.io/badge/Resume-1A1A1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+  <a href="test.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="test.com"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="test.com"><img src="https://img.shields.io/badge/Resume-1A1A1A?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <a href="test.com"><img src="https://img.shields.io/badge/Notion-1A1A1A?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="test.com"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+
+
+## 🚀 개발자로서의 태도
+
+---
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌱 끊임없는 배움의 자세
+새로운 기술과 트렌드를 배우는 것을 즐기며,  
+배우는 과정에서 얻는 작은 성취를 동력으로 삼습니다.  
+학습한 내용을 프로젝트에 바로 적용하며  
+경험으로 체화하는 것을 중요하게 생각합니다.
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🔍 꼼꼼함으로 만드는 완성도
+작은 디테일까지 놓치지 않는 꼼꼼함으로  
+코드 작성 시 발생할 수 있는 오류를 미리 예방합니다.  
+사용자 경험까지 고려한  
+안정적이고 완성도 높은 결과물을 지향합니다.
+
+  </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 💪 긍정적인 마인드로 문제 해결
+어려운 상황에서도 긍정적인 태도로 문제를 바라봅니다.  
+실패와 시행착오는 성장의 과정이라 생각하며,  
+문제 해결 경험을 팀과 공유해  
+더 나은 결과를 만들어갑니다.
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚀 도전 정신으로 새로운 시도
+낯선 기술이나 새로운 프로젝트에도 주저하지 않고 도전하며,  
+실패를 두려워하지 않고 경험을 쌓아갑니다.  
+새로운 시도를 통해 얻은 인사이트로  
+프로젝트와 팀에 긍정적인 영향을 주고자 합니다.
+
+  </td>
+  </tr>
+</table>
+
+---
 
 ### #끊임없는_배움
 새로운 기술과 트렌드를 배우는 것을 즐기며,  
@@ -87,7 +126,7 @@
 ---
 <!-- 타이핑 GIF 배너 -->
 <p align="center">
-  <img src="./assets/typing.gif" width="100%" alt="Typing intro" />
+  <img src="./assets/typing.gif" width="520" alt="Typing intro" />
 </p>
 
 ## 📌 Featured Projects
