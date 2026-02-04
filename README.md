@@ -20,164 +20,135 @@
   <a href="test.com"><img src="https://img.shields.io/badge/Notion-1A1A1A?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="test.com"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
 <hr/>
-
-<br/><br/>
 
 <p align="center" style="margin: 12px 0 0 0;">
   <img src="./assets/title_img.png" width="28px" alt="title" />
 </p>
 
-<h2 align="center" style="margin: 4px 0 24px 0;">
+<p align="center" style="margin: 0 0 24px 0; font-size: 5.5em; font-weight: 700;">
   개발자로서의 태도
-</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center">제목</th>
-    <th align="center">제목</th>
-  </tr>
-  <tr>
-    <td align="center">내용</td>
-    <td align="center">내용</td>
-  </tr>
-  <tr>
-    <th align="center">제목</th>
-    <th align="center">제목</th>
-  </tr>
-  <tr>
-    <td align="center">내용</td>
-    <td align="center">내용</td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌱 끊임없는 배움의 자세
-새로운 기술과 트렌드를 배우는 것을 즐기며,  
-배우는 과정에서 얻는 작은 성취를 동력으로 삼습니다.  
-학습한 내용을 프로젝트에 바로 적용하며  
-경험으로 체화하는 것을 중요하게 생각합니다.
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🔍 꼼꼼함으로 만드는 완성도
-작은 디테일까지 놓치지 않는 꼼꼼함으로  
-코드 작성 시 발생할 수 있는 오류를 미리 예방합니다.  
-사용자 경험까지 고려한  
-안정적이고 완성도 높은 결과물을 지향합니다.
-
-  </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 💪 긍정적인 마인드로 문제 해결
-어려운 상황에서도 긍정적인 태도로 문제를 바라봅니다.  
-실패와 시행착오는 성장의 과정이라 생각하며,  
-문제 해결 경험을 팀과 공유해  
-더 나은 결과를 만들어갑니다.
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🚀 도전 정신으로 새로운 시도
-낯선 기술이나 새로운 프로젝트에도 주저하지 않고 도전하며,  
-실패를 두려워하지 않고 경험을 쌓아갑니다.  
-새로운 시도를 통해 얻은 인사이트로  
-프로젝트와 팀에 긍정적인 영향을 주고자 합니다.
-
-  </td>
-  </tr>
-</table>
-
----
-
-### #끊임없는_배움
-새로운 기술과 트렌드를 배우는 것을 즐기며,  
-공부한 내용을 **프로젝트에 바로 적용하며 경험으로 체화**하는 과정을 중요하게 생각합니다.  
-변화하는 개발 환경에서도 유연하게 성장하는 개발자를 목표로 합니다.
-
-### #꼼꼼한_성격
-작은 디테일까지 놓치지 않는 성격으로,  
-코드 안정성과 사용자 경험을 함께 고려합니다.  
-문제를 끝까지 파고들어 해결하는 과정에서 큰 보람을 느낍니다.
-
-### #긍정_마인드
-어려운 상황에서도 긍정적으로 접근하며,  
-실패와 시행착오를 성장의 발판으로 삼습니다.  
-협업 과정에서도 원활한 소통으로 팀에 기여하고자 합니다.
-
-### #도전_정신
-낯선 기술과 새로운 프로젝트에도 주저하지 않고 도전합니다.  
-새로운 시도를 통해 얻은 경험과 인사이트를  
-더 나은 결과물로 연결하는 것을 좋아합니다.
-
----
-
-## 🛠 Tech Stack
-
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Back-end
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### DB · Server
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-5E5E5E?style=flat-square)
-
----
-<!-- 타이핑 GIF 배너 -->
-<p align="center">
-  <img src="./assets/typing.gif" width="520" alt="Typing intro" />
 </p>
 
-## 📌 Featured Projects
+<p align="center" style="margin: 0 0 24px 0;">
+  <big><big><big><strong>개발자로서의 태도</strong></big></big></big>
+</p>
 
-### 🚲 서울시 공공자전거 ‘따릉이’ 클론 및 UX 리디자인
-기존 따릉이 웹사이트를 분석하여  
-메인 화면 구조를 개선하고 서비스 페이지를 구현한 프로젝트  
-👉 [GitHub Repo](test.com) | [Live Demo](test.com)
+<p align="center">
+  <img src="./assets/title_img.png" alt="개발자로서의 태도" width="50px"/>
+</p>
+
+
+
+
+<hr/>
+
+<p align="center" style="margin: 16px 0 24px 0;">
+  <img src="./assets/title_img.png" width="28px"/>
+</p>
+
+<p align="center">
+  <big><big><big><strong>개발자로서의 태도</strong></big></big></big>
+</p>
+
+
+### 🌱 끊임없는 배움의 자세
+- 새로운 기술과 트렌드를 배우는 것을 즐기며, 배우는 과정에서 얻는 작은 성취를 큰 동기부여로 삼습니다.
+- 학습한 내용을 프로젝트에 바로 적용하며, 지식을 경험으로 체화하는 것을 중요하게 생각합니다.
+- 변화하는 개발 환경 속에서도 유연하게 대응할 수 있도록 꾸준한 학습과 성장을 이어가고 있습니다.
 
 ---
 
-### 🏢 KD손해보험 관리자 페이지 (가상 보험사 백오피스 시스템)
-보험사 관리자 페이지의 실무 구조를 이해하고  
-Spring 기반 데이터 관리 시스템을 구현한 프로젝트  
-👉 [GitHub Repo](test.com) | [Live Demo](test.com)
+### 🔍 꼼꼼함으로 만드는 완성도
+- 작은 디테일까지 놓치지 않는 꼼꼼함으로 코드 작성 과정에서 발생할 수 있는 오류를 미리 예방합니다.
+- 기능 구현뿐 아니라 사용자 경험까지 고려하여 안정적이고 완성도 높은 결과물을 추구합니다.
+- 문제를 끝까지 파고들어 해결하는 과정에서 개발자로서의 보람과 책임감을 느낍니다.
 
 ---
 
-### 🎬 리액트 기반 SPA 웹 애플리케이션
-새로고침 없이 페이지가 전환되는  
-영상·슬라이드 중심의 웹 애플리케이션을 구현한 프로젝트  
-👉 [GitHub Repo](test.com) | [Live Demo](test.com)
+### 💪 긍정적인 마인드로 문제 해결
+- 예상치 못한 문제 상황에서도 긍정적인 태도로 원인을 분석하고 해결책을 찾아갑니다.
+- 실패와 시행착오를 성장의 과정으로 받아들이며, 얻은 경험을 팀과 적극적으로 공유합니다.
+- 원활한 소통을 통해 협업의 효율을 높이고, 팀 전체의 생산성 향상에 기여하고자 합니다.
 
 ---
 
-## 🎨 Work Style & Interests
+### 🚀 도전 정신으로 새로운 시도
+- 낯선 기술이나 새로운 프로젝트에도 주저하지 않고 도전하며 경험의 폭을 넓혀갑니다.
+- 실패를 두려워하기보다 시도 자체를 성장의 기회로 삼습니다.
+- 새로운 시도를 통해 얻은 인사이트로 프로젝트와 팀에 긍정적인 변화를 만들어가고자 합니다.
 
-- UI 디테일에 집착하는 편  
-- 사용자 흐름을 먼저 고민하는 개발  
-- 정적인 화면보다 **반응하는 인터페이스**를 선호  
+
+## 📚 "배움에는 끝이 없다"
+* **트렌드를 읽고 경험으로 증명하는 학습 태도**
+    * 새로운 기술과 트렌드를 배우는 것을 즐기며, 그 과정의 작은 성취를 동기부여로 삼습니다.
+    * 공부한 내용을 바로 프로젝트에 적용하여 나만의 지식과 경험으로 체화하는 것을 중요하게 생각합니다.
+    * 변화하는 개발 환경 속에서도 멈추지 않고 스스로를 업데이트해 나갑니다.
+
+## 🔍 "디테일이 차이를 만든다"
+* **사용자 중심의 사고와 꼼꼼한 코드 퀄리티**
+    * 작은 디테일까지 놓치지 않는 꼼꼼함으로 코드 작성 과정에서 발생할 수 있는 오류를 예방합니다.
+    * 사용자 경험까지 세심하게 고려하여 안정적이고 완성도 높은 결과물을 만들어냅니다.
+    * 문제를 깊이 파고들어 끝까지 해결하며, 동료들에게 신뢰를 주는 개발자가 되고자 합니다.
+
+## 😊 "안 되면 되게 하라"
+* **긍정적인 태도로 문제를 해결하고 팀과 소통하는 자세**
+    * 어려운 문제나 예기치 못한 상황에서도 긍정적인 마음가짐으로 해결책을 모색합니다.
+    * 실패와 시행착오를 성장의 밑거름으로 삼고, 해결 과정을 팀과 공유하여 함께 성장합니다.
+    * 원활한 소통을 통해 협업의 즐거움을 찾으며, 팀 전체의 생산성을 높이는 데 기여합니다.
+
+## 🚀 "실패는 성공의 밑거름"
+* **낯선 기술에 대한 도전과 창의적인 문제 해결**
+    * 처음 접하는 기술이나 프로젝트 앞에서도 주저하지 않고 도전하며 경험의 폭을 넓혀갑니다.
+    * 새로운 시도를 통해 얻은 인사이트는 더 나은 개발자로 성장하는 단단한 뿌리가 됩니다.
+    * 창의적인 아이디어와 도전 정신을 바탕으로 팀에 긍정적인 영향력을 미치기 위해 노력합니다.
+
+---
+
+
+**테스트제목**
+*기울기*
+~~취소선~~
+> 인용구
+
+<details>
+  <summary>자세히 보기 (클릭)</summary>
+  여기에 숨겨진 내용을 적습니다.
+</details>
+
+
+
+
+<details>
+  <summary><h3>🔍 여기에 큰 제목을 입력하세요 (클릭)</h3></summary>
+  <br>
+  여기에 숨겨진 상세 내용을 적습니다. 
+  마크다운 문법을 혼용할 때는 한 줄 띄우고 작성하는 것이 좋습니다.
+</details>
+
+
+```bash
+$ git clone https://github.com/y-yjee/y-yjee.git
+$ cd project
+$ npm install
+$ npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
