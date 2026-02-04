@@ -3,14 +3,13 @@
   <img src="./assets/profile.png" width="300px" alt="Profile" />
 </p>
 
+<!-- 정체성 문구 -->
 <h3 align="center">디테일과 화면의 흐름에 진심인 프론트엔드 개발자</h3>
-
 <p align="center">
   멈추지 않는 호기심으로 배우고,  
   함께 가고 싶은 동료로 성장하며,  
   꾸준함으로 실력을 쌓아갑니다.
 </p>
-
 <br/>
 
 <!-- 링크 버튼 -->
@@ -22,13 +21,34 @@
   <a href="test.com"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<p align="center" style="margin-bottom: 0;">
+  <img src="./assets/title_img.png" width="50px" alt="title" />
+</p>
+
+<h2 align="center" style="margin-top: 4px;">
+  개발자로서의 태도
+</h2>
+
+<table align="center">
+  <tr>
+    <th align="center">제목</th>
+    <th align="center">제목</th>
+  </tr>
+  <tr>
+    <td align="center">내용</td>
+    <td align="center">내용</td>
+  </tr>
+  <tr>
+    <th align="center">제목</th>
+    <th align="center">제목</th>
+  </tr>
+  <tr>
+    <td align="center">내용</td>
+    <td align="center">내용</td>
+  </tr>
+</table>
 
 
-
-## 🚀 개발자로서의 태도
-
----
 <table align="center">
   <tr>
     <td width="50%" valign="top">
