@@ -21,6 +21,10 @@
   <a href="test.com"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
+
+<br/><br/>
+
 <p align="center" style="margin-bottom: 0;">
   <img src="./assets/title_img.png" width="50px" alt="title" />
 </p>
@@ -29,7 +33,7 @@
   개발자로서의 태도
 </h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th align="center">제목</th>
     <th align="center">제목</th>
