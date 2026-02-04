@@ -21,15 +21,15 @@
   <a href="test.com"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<hr/>
 
 <br/><br/>
 
-<p align="center" style="margin-bottom: 0;">
-  <img src="./assets/title_img.png" width="50px" alt="title" />
+<p align="center" style="margin: 12px 0 0 0;">
+  <img src="./assets/title_img.png" width="28px" alt="title" />
 </p>
 
-<h2 align="center" style="margin-top: 4px;">
+<h2 align="center" style="margin: 4px 0 24px 0;">
   개발자로서의 태도
 </h2>
 
