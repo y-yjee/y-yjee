@@ -1,6 +1,6 @@
 <!-- 프로필 이미지 -->
 <p align="center">
-  <img src="./assets/profile.png" width="300px" alt="Profile" />
+  <img src="./assets/profile.png" width="250px" alt="Profile" />
 </p>
 
 <!-- 정체성 문구 -->
@@ -22,34 +22,19 @@
 </p>
 <hr/>
 
-<p align="center" style="margin: 12px 0 0 0;">
-  <img src="./assets/title_img.png" width="28px" alt="title" />
-</p>
 
-<p align="center" style="margin: 0 0 24px 0; font-size: 5.5em; font-weight: 700;">
-  개발자로서의 태도
-</p>
 
-<p align="center" style="margin: 0 0 24px 0;">
-  <big><big><big><strong>개발자로서의 태도</strong></big></big></big>
+<p align="center">
+  <img src="./assets/about_title.png" width="120px" alt="Profile" />
 </p>
 
 <p align="center">
-  <img src="./assets/title_img.png" alt="개발자로서의 태도" width="50px"/>
+  <img src="./assets/about_title2.png" width="120px" alt="Profile" />
 </p>
-
-
-
 
 <hr/>
 
-<p align="center" style="margin: 16px 0 24px 0;">
-  <img src="./assets/title_img.png" width="28px"/>
-</p>
 
-<p align="center">
-  <big><big><big><strong>개발자로서의 태도</strong></big></big></big>
-</p>
 
 
 ### 🌱 끊임없는 배움의 자세
