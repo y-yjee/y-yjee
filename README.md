@@ -26,56 +26,95 @@
 </p>
 <hr/>
 
+<br>
 
 <!-- About Me -->
 <p align="center">
   <img src="./assets/about_me_title.png" width="150px" alt="Profile" /> <br>
-  더 나은 코드와 건강한 협업을 위해 매 순간 고민하며 선택하는 자세를 중요하게 생각합니다.
+  <strong>더 나은 코드와 건강한 협업을 위해 매 순간 고민하며 선택하는 자세를 중요하게 생각합니다.</strong>
 </p>
+
 <br>
 
-#### ✔ 끊임없는 배움의 자세
+### ✔ 끊임없는 배움의 자세
 새로운 기술과 트렌드를 배우는 과정을 즐기며,  
 학습한 내용을 프로젝트에 바로 적용해 경험으로 체화합니다.  
-변화하는 개발 환경 속에서도 꾸준히 성장하는 것을 목표로 합니다.
+변화하는 개발 환경 속에서도 꾸준한 성장을 목표로 합니다.
 
-#### ✔ 꼼꼼함으로 만드는 완성도
+### ✔ 꼼꼼함으로 만드는 완성도
 작은 디테일까지 놓치지 않는 꼼꼼함으로  
 코드 안정성과 사용자 경험을 함께 고려한 구현을 지향합니다.  
 문제를 끝까지 해결하며 신뢰할 수 있는 결과물을 만들어가고자 합니다.
 
-#### ✔ 긍정적인 마인드로 문제 해결
+### ✔ 긍정적인 마인드로 문제 해결
 어려운 상황에서도 긍정적인 태도로 원인을 분석하고 해결책을 찾습니다.  
 시행착오를 성장의 과정으로 받아들이고, 경험을 팀과 공유합니다.
 
-#### ✔ 도전 정신으로 새로운 시도
+### ✔ 도전 정신으로 새로운 시도
 낯선 기술과 새로운 프로젝트에도 주저하지 않고 도전합니다.  
 새로운 시도를 통해 얻은 인사이트를 성장의 기준으로 삼습니다.
 
+<br>
+
 <hr/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 <!-- Skills -->
 <p align="center">
   <img src="./assets/skills_title.png" width="150px" alt="Profile" /> <br>
-  실무에 가까운 구현을 목표로 익히고 사용해온 기술들입니다.
+  <strong>실무에 가까운 구현을 목표로 익히고 사용해온 기술들입니다.</strong>
 </p>
 
+<br>
+
+### ▸ 프론트엔드
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logoColor=white">
+</p>
+
+### ▸ 백엔드
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spring%20MVC%20%2F%20Boot%20%2F%20Security-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JDBC%20%2F%20MyBatis-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-000000?style=for-the-badge">
+</p>
+
+### ▸ DB · 서버
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20SQL-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-000000?style=for-the-badge&logoColor=white">
+</p>
+
+### ▸ 협업 · 도구
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/RPA-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white">
+</p>
+
+<br>
+
 <hr/>
+
+<br>
+
+
+
+
+
+
+
 
 <!-- Projects -->
 <p align="center">
@@ -83,7 +122,7 @@
   기획부터 구현까지 직접 참여하며 완성한 대표 프로젝트들입니다.
 </p>
 
-<hr/>
+
 
 <!-- Beyond Code -->
 <p align="center">
