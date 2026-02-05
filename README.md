@@ -222,9 +222,11 @@
 
 <!-- Enjoy as a Developer -->
 <p align="center">
-  <img src="./assets/enjoy_title.png" width="150px" alt="Section_Title" /> <br>
+  <img src="./assets/enjoy_title.png" width="250px" alt="Section_Title" /> <br>
   <strong>개발을 계속하게 만드는 순간들을 담았습니다.</strong>
 </p>
+
+<br>
 
 <p align="center">
 개발을 하면서 가장 즐거운 순간은  
@@ -257,16 +259,6 @@
 
 <br>
 <hr/>
-
-
-<hr/>
-
-
-
-
-
-
-
 
 
 
