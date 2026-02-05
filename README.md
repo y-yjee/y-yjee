@@ -30,7 +30,7 @@
 
 <!-- About Me -->
 <p align="center">
-  <img src="./assets/about_me_title.png" width="150px" alt="Profile" /> <br>
+  <img src="./assets/about_me_title.png" width="150px" alt="Section_Title" /> <br>
   <strong>더 나은 코드와 건강한 협업을 위해 매 순간 고민하며 선택하는 자세를 중요하게 생각합니다.</strong>
 </p>
 
@@ -62,7 +62,7 @@
 
 <!-- Skills -->
 <p align="center">
-  <img src="./assets/skills_title.png" width="150px" alt="Profile" /> <br>
+  <img src="./assets/skills_title.png" width="150px" alt="Section_Title" /> <br>
   <strong>실무에 가까운 구현을 목표로 익히고 사용해온 기술들입니다.</strong>
 </p>
 
@@ -111,116 +111,153 @@
 
 <!-- Projects -->
 <p align="center">
-  <img src="./assets/projects_title.png" width="150px" alt="Profile" /> <br>
+  <img src="./assets/projects_title.png" width="150px" alt="Section_Title" /> <br>
   <strong>기획부터 구현까지 직접 참여하며 완성한 대표 프로젝트들입니다.</strong>
 </p>
 
 <br>
 
-## 📌 대표 프로젝트
-
-### 🚲 서울시 공공자전거 ‘따릉이’ 클론 & UX 리디자인
-
-<p align="left">
-  <img src="./assets/Alegria_Seoulbike.jpg" width="320" alt="서울시 공공자전거 따릉이 프로젝트 썸네일">
-</p>
-
-### 📝 한 줄 핵심 설명
-> 서울시 공공자전거 ‘따릉이’ 웹사이트를 분석하여  
-> **메인 화면 구조를 개선하고 사용자 중심의 서비스 페이지를 구현한 UX 리디자인 프로젝트**
-
----
-
-### 🎯 프로젝트 선정 이유
-- 시민 접점이 높은 공공 서비스 플랫폼으로 다양한 사용자층을 보유
-- 기존 공공 서비스 UI의 불편함을 개선해보고자 프로젝트로 선정
-- 누구나 쉽게 사용할 수 있는 **직관적인 인터페이스와 정보 접근성 개선**을 목표로 진행
-
----
-
-### ✨ 핵심 포인트
-- 메인 화면 구조 개선을 통한 **정보 탐색 흐름 단순화**
-- 지도 API 기반 대여소 조회로 **실질적인 사용자 편의성 강화**
-- 공공 서비스 특성을 고려한 **접근성 · 가독성 중심 UI 설계**
-
----
-
-### 🛠 사용 기술
-`HTML` · `CSS` · `JavaScript` · `지도 API`
-
----
-
-### 🔗 관련 링크
-- 📂 GitHub Repository : [바로가기](레포지토리_URL)
-- 🌐 Portfolio Detail : [프로젝트 상세 보기](포트폴리오_URL)
-
----
-
-
-## 📌 대표 프로젝트
-
+## 🚲 서울시 공공자전거 ‘따릉이’ (클론 & 메인 구조 개선)
 <table>
   <tr>
     <td width="35%">
-      <img src="./assets/Alegria_Seoulbike.jpg" alt="서울시 공공자전거 따릉이 프로젝트 썸네일">
+      <img src="./assets/Alegria_Seoulbike.jpg" alt="서울시 공공자전거 따릉이 썸네일">
     </td>
     <td width="65%">
-
-### 🚲 서울시 공공자전거 ‘따릉이’ 클론 & UX 리디자인
-
-**한 줄 설명**  
-서울시 공공자전거 ‘따릉이’ 웹사이트를 분석하여  
-메인 화면 구조를 개선하고 사용자 중심의 서비스 페이지를 구현한 프로젝트
-
-**왜 이 프로젝트를 했는지**  
-- 시민 접점이 높은 공공 서비스 플랫폼 UI 개선 목적  
-- 정보 접근성과 가독성 향상을 통한 사용자 경험 개선
-
-**핵심 포인트**  
-- 메인 화면 구조 재설계로 정보 탐색 흐름 개선  
-- 지도 API 기반 대여소 조회 기능 구현
-
-**사용 기술**  
-`HTML` · `CSS` · `JavaScript` · `지도 API`
-
-**링크**  
-🔗 [GitHub Repository](레포지토리_URL)  
-🔗 [Portfolio Detail](포트폴리오_URL)
-
+      서울시 공공자전거 ‘따릉이’ 웹사이트를 분석하여 <br>
+      메인 화면 구조를 개선하고 사용자 중심의 서비스 페이지를 구현한 프로젝트
+      <br><br>
+      <ul>
+        <li>
+          메인 화면 구조 개선을 통한 
+          <strong>정보 탐색 흐름 단순화</strong>
+        </li>
+        <li>
+          지도 API 기반 대여소 조회로 
+          <strong>실질적인 사용자 편의성 강화</strong>
+        </li>
+        <li>
+          공공 서비스 특성을 고려한 
+          <strong>접근성 · 가독성 중심 UI 설계</strong>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
 
+> **사용 기술** - `HTML` · `CSS` · `JavaScript` · `jQuery` · `Map API` · `bxSlider` <br>
+> 📂 **Repository** : [바로가기](레포지토리_URL)  |  🌐 **Live Demo** : [바로가기](포트폴리오_URL)
 
+<br>
 
+## 🏢 KD손해보험 관리자 페이지 (가상 보험사 백오피스 시스템)
+<table>
+  <tr>
+    <td width="35%">
+      <img src="./assets/Alegria_Insurance.jpg" alt="KD손해보험 관리자 페이지 썸네일">
+    </td>
+    <td width="65%">
+      보험사 관리자 페이지의 실무 구조를 이해하고 <br>
+      Spring 기반 데이터 관리 시스템을 구현한 백오피스 프로젝트
+      <br><br>
+      <ul>
+        <li>
+          관리자 업무 흐름을 고려한 
+          <strong>대시보드 · 관리 기능 중심 화면 설계</strong>
+        </li>
+        <li>
+          고객 · 피보험자 · 계약 · 공지사항 등 
+          <strong>핵심 데이터 CRUD 기능 구현</strong>
+        </li>
+        <li>
+          Spring MVC 3계층 구조 기반
+          <strong>확장성과 유지보수를 고려한 서버 설계</strong>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+> **사용 기술** - `HTML` · `CSS` · `JSP` · `Spring MVC` · `MyBatis` · `Oracle DB` · `JDBC` <br>
+> 📂 **Repository** : [바로가기](레포지토리_URL)  |  🌐 **Live Demo** : [바로가기](포트폴리오_URL)
 
+<br>
 
+## 🎬 리액트 기반 SPA 웹 애플리케이션
+<table>
+  <tr>
+    <td width="35%">
+      <img src="./assets/Wanda_Vision.jpg" alt="리액트 완다비전 썸네일">
+    </td>
+    <td width="65%">
+      영상과 슬라이드 인터랙션을 중심으로 <br>
+      사용자 흐름에 맞게 구성한 리액트 기반 SPA 웹 애플리케이션
+      <br><br>
+      <ul>
+        <li>
+          React Router를 활용한
+          <strong>페이지 전환 구조 설계</strong>
+        </li>
+        <li>
+          상태 관리와 생명주기를 통한
+          <strong>UI의 실시간 반응 구현</strong>
+        </li>
+        <li>
+          CSS 레이어 · 투명도 · 애니메이션을 활용한
+          <strong>콘텐츠 몰입형 화면 구성</strong>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+> **사용 기술** - `React` · `JavaScript` · `SPA` · `ReactRouter` · `Swiper` · `useState` · `useEffect` · `CSS` <br>
+> 📂 **Repository** : [바로가기](레포지토리_URL)  |  🌐 **Live Demo** : [바로가기](포트폴리오_URL)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 <hr/>
 
-<!-- Beyond Code -->
+<br>
+
+<!-- Enjoy as a Developer -->
 <p align="center">
-  <img src="./assets/beyond_code_title.png" width="150px" alt="Profile" /> <br>
-  일상 속 경험에서 좋은 흐름과 사용자 경험을 관찰하는 것을 좋아합니다.
+  <img src="./assets/enjoy_title.png" width="150px" alt="Section_Title" /> <br>
+  <strong>개발을 계속하게 만드는 순간들을 담았습니다.</strong>
 </p>
+
+<p align="center">
+개발을 하면서 가장 즐거운 순간은  
+머릿속에만 있던 아이디어가 실제 화면과 기능으로 구현될 때입니다.
+</p>
+
+<p align="center">
+새로운 기술을 배워 직접 적용해보고,  
+기능 하나하나가 연결되며 화면과 데이터 흐름이 살아나는 과정을 좋아합니다. <br>
+특히 “이 흐름이 더 낫지 않을까?” 고민하며 구조를 다듬는 시간이 즐겁습니다.
+</p>
+
+<p align="center">
+작은 기능을 설계했을 뿐인데  
+전체 화면의 흐름이 더 깔끔해지고,  
+사용자가 덜 헤매게 되는 순간에 큰 만족을 느낍니다.
+</p>
+
+<p align="center">
+이전 직무에서 쌓아온 디자인 감각을 함께 녹여  
+기능뿐만 아니라 화면의 완성도까지 함께 맞아떨어질 때,  
+‘개발을 하길 잘했다’는 생각이 듭니다.
+</p>
+
+<p align="center">
+읽기 편하게 정리된 코드,  
+의도가 잘 보이는 구조를 마주할 때의 편안함도  
+제가 개발을 계속 즐길 수 있는 이유 중 하나입니다.
+</p>
+
+<br>
+<hr/>
+
 
 <hr/>
 
