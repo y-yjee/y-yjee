@@ -25,12 +25,18 @@
 
 
 <p align="center">
-  <img src="./assets/about_title.png" width="120px" alt="Profile" />
+  <img src="./assets/about_me_title.png" width="120px" alt="Profile" />
+</p>
+<p align="center">
+  <img src="./assets/skills_title.png" width="120px" alt="Profile" />
+</p>
+<p align="center">
+  <img src="./assets/projects_title.png" width="120px" alt="Profile" />
+</p>
+<p align="center">
+  <img src="./assets/beyond_code_title.png" width="120px" alt="Profile" />
 </p>
 
-<p align="center">
-  <img src="./assets/about_title2.png" width="120px" alt="Profile" />
-</p>
 
 <hr/>
 
