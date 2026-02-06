@@ -255,21 +255,12 @@
 </p>
 
 <br>
+
 <hr/>
 
-
-
-
-
-
-<kbd>아이디어를 실제 화면과 기능으로 구현</kbd>
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Copyright-2026_YOONJEE-000000?style=for-the-badge&labelColor=555555&logoColor=white" />
+</p>
 
 
 
